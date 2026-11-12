@@ -1,0 +1,14 @@
+; Copie este arquivo para sgc_dfe_backup.ini e ajuste os valores.
+[CONFIGURACOES]
+; Nome exibido na planilha de controle
+empresa = Minha Empresa Ltda
+; Pasta de XMLs autorizados do UniNFe (o CNPJ do emitente faz parte do caminho)
+pasta_local = C:\Unimake\UniNFe\00000000000000\Enviado\Autorizados
+; Link da pasta do Google Drive compartilhada com a conta de serviço (Editor)
+pasta_nuvem = https://drive.google.com/drive/folders/ID_DA_PASTA
+; Link da planilha Google Sheets compartilhada com a conta de serviço (Editor)
+planilha_controle = https://docs.google.com/spreadsheets/d/ID_DA_PLANILHA/edit
+; Filtro de arquivos: *procNFe.xml envia apenas o XML com protocolo de autorização
+mascara = *procNFe.xml
+; Opcional: caminho do JSON da conta de serviço (padrão: credenciais.json)
+arquivo_credenciais = credenciais.json

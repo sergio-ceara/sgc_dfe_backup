@@ -1,0 +1,16 @@
+# Segredos e configuração local
+credenciais.json
+*.json
+sgc_dfe_backup.ini
+
+# Logs e dados fiscais
+*.log
+*.xml
+
+# Build
+build/
+dist/
+*.spec
+__pycache__/
+venv/
+.venv/
