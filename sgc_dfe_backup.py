@@ -2,6 +2,9 @@
 # Sincroniza XMLs autorizados de NF-e (UniNFe) com uma pasta do Google Drive
 # e registra cada execução em uma planilha de controle do Google Sheets.
 #
+# © 2026 Sérgio Ceará. Todos os direitos reservados.
+# Uso, cópia ou redistribuição somente com autorização do autor.
+#
 # Ambiente:
 #   python -m venv venv
 #   venv\Scripts\activate

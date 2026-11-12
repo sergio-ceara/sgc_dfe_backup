@@ -151,6 +151,20 @@ Crie uma tarefa no **Agendador de Tarefas do Windows** com o gatilho "Ao fazer l
 - `sgc_dfe_backup.ini`, logs e XMLs também são ignorados: eles contêm CNPJ, chaves de acesso de NF-e e links privados.
 - Dê à conta de serviço acesso apenas à pasta e à planilha usadas.
 
+## Precisa disso na sua empresa ou contabilidade?
+
+Faço a **implantação completa**: conta Google, pasta e planilha compartilhadas, configuração do UniNFe, agendamento automático e testes. Também ofereço **suporte e monitoramento mensal**.
+
+Atendo escritórios de contabilidade que querem receber os XMLs de vários clientes sem depender da máquina de cada um ficar ligada. Também desenvolvo integrações sob medida para sistemas legados (xHarbour/xBase), documentos fiscais eletrônicos e a nuvem Google.
+
+📱 **WhatsApp:** [(85) 98526-5541](https://wa.me/5585985265541)
+
 ## Autor
 
 **Sérgio Ceará** · [github.com/sergio-ceara](https://github.com/sergio-ceara)
+
+## Direitos autorais
+
+© 2026 Sérgio Ceará. Todos os direitos reservados.
+
+O código está disponível apenas para **consulta e demonstração**. Copiar, modificar, redistribuir ou usar comercialmente, total ou parcialmente, exige autorização prévia e por escrito do autor.
